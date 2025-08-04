@@ -4,11 +4,11 @@
 
 • [Project Overview](#Project-overview)
 
-• Insights Summary
+• [Insights Summary](#Insights-summary)
 
-• Recommendations
+• [Recommendations](#Recommendations)
 
-• Dashboard
+• [Dashboard](#Dashboard)
 
 • Technical Process and Caveats
 
