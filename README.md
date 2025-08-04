@@ -84,7 +84,7 @@ Recommendations center on two key strategies: eliminating underperforming campai
 • COVID Campaigns: Examine the unusually high cost per signup for COVID-related campaigns, where just 2 signups resulted in over $1K in spend—significantly above the $3.70 average. Consider phasing out these campaigns due to their inefficiency
 
 ## Dashboard
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in Tableau Public [HERE](https://public.tableau.com/app/profile/prerak.shah4558/viz/RowHealthDashboard_17533905682670/Dashboard2) This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 <img width="1291" height="996" alt="2025-08-04_12h59_22" src="https://github.com/user-attachments/assets/6fc73c99-db52-47ad-9d10-fcf36958cfb3" />
 
 
