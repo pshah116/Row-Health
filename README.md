@@ -22,5 +22,5 @@ With a new data team in place and a renewed focus on strategic marketing, Row He
 
 
 ## Data set Strucutre
-<img width="951" height="725" alt="2025-08-04_10h53_13" src="https://github.com/user-attachments/assets/4e2bcf61-f7ae-4db9-b823-cd8f6901055a" />
+<img width="751" height="525" alt="2025-08-04_10h53_13" src="https://github.com/user-attachments/assets/4e2bcf61-f7ae-4db9-b823-cd8f6901055a" />
 
