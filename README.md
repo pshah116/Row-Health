@@ -85,7 +85,6 @@ Recommendations center on two key strategies: eliminating underperforming campai
 
 ## Dashboard
 The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
-<img width="1269" height="995" alt="2025-08-04_12h58_07" src="https://github.com/user-attachments/assets/bfd51069-302b-45a8-9dc8-34fbed9c4941" />
-
+<img width="1291" height="996" alt="2025-08-04_12h59_22" src="https://github.com/user-attachments/assets/6fc73c99-db52-47ad-9d10-fcf36958cfb3" />
 
 
