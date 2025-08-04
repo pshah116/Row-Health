@@ -90,6 +90,7 @@ The dashboard can be found in Tableau Public [HERE](https://public.tableau.com/a
 
 ## Technical Process and Caveats
 **Dataset Stats**:
+
 • **33 unique campaigns** analyzed across 12 campaign types
 
 • **16,338 customers** attributed to those campaigns
