@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-• [Project Overview] (#Project-overview)
+• [Project Overview](#Project-overview)
 
 • Insights Summary
 
