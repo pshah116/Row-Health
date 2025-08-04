@@ -81,7 +81,7 @@ Recommendations center on two key strategies: eliminating underperforming campai
 
 • **Health Awareness**: Within *Health for All* campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
 
-• COVID Campaigns: Examine the unusually high cost per signup for COVID-related campaigns, where just 2 signups resulted in over $1K in spend—significantly above the $3.70 average. Consider phasing out these campaigns due to their inefficiency
+• **COVID Campaigns**: Examine the unusually high cost per signup for COVID-related campaigns, where just 2 signups resulted in over $1K in spend—significantly above the $3.70 average. Consider phasing out these campaigns due to their inefficiency
 
 ## Dashboard
 The dashboard can be found in Tableau Public [HERE](https://public.tableau.com/app/profile/prerak.shah4558/viz/RowHealthDashboard_17533905682670/Dashboard2) This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
