@@ -55,7 +55,7 @@ To evaluate campaign performance, the insights primarily focused on the followin
 
 • The *Health For All* campaign category delivered the strongest results, generating over 3,500 signups and a 2% signup rate—roughly 12 times higher than the overall average. This exceptional performance is largely driven by the Health Awareness campaign type, which recorded the highest signup rate among all types at 2.78%
 
-• *Golden Years Security* has the lowest signup count (23) and a horrific signup rate (0.01%) despite having the highest cost per signup ($176.73)
+• *Golden Years Security* has the lowest signup count (23) and a mediocre signup rate (0.01%) despite having the highest cost per signup ($176.73)
 
 • Although the *Benefit Updates* campaign achieved the second highest click-through rate, it resulted in only 45 signups—the second lowest among all categories—and a signup rate of just 0.02%. Additionally, it had the second highest cost per signup at $47, indicating limited conversion efficiency
 
