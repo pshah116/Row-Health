@@ -113,7 +113,7 @@ The dashboard can be found in Tableau Public [HERE.](https://public.tableau.com/
 
 • Built a self-service dashboard in **Tableau**
 
-• Used **calculated fields** to compute: Click-through rate (CTR), Cost per person (CPP), Signup rate, Cost per signup (CPS)
+• Used **calculated fields** to compute: Click through rate (CTR), Cost per person (CPP), Signup rate, Cost per signup (CPS)
 
 • Used **filters to alternate views** based on plan, state, and campaign type
 
