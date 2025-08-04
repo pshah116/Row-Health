@@ -98,6 +98,7 @@ The dashboard can be found in Tableau Public [HERE.](https://public.tableau.com/
 • Data spans from **2019 to 2023**
 
 **Data Points Involved**:
+
 • **Campaigns**: category, type, clicks, cost, impressions (33 records total)
 
 • **Customers**: name, plan, signup date, state (16,338 records total)
@@ -105,6 +106,7 @@ The dashboard can be found in Tableau Public [HERE.](https://public.tableau.com/
 • **Claims**: claim amount, claims (49,998 total records) 
 
 **Technical Process**:
+
 • Loaded data into Tableau from **Excel**
 
 • Built a self-service dashboard in **Tableau**
