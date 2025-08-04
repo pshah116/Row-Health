@@ -2,15 +2,13 @@
 
 # Table of Contents
 
-#Project Overview
+• Project Overview
 
-#Dataset Structure
+• Insights Summary
 
-#Insights Summary
+• Recommendations
 
-#Recommendations
-
-#Dashboard
+• Dashboard
 
 ## Project Overview
 
@@ -23,4 +21,20 @@ With a new data team in place and a renewed focus on strategic marketing, Row He
 
 ## Dataset Structure
 <img width="751" height="525" alt="2025-08-04_10h53_13" src="https://github.com/user-attachments/assets/4e2bcf61-f7ae-4db9-b823-cd8f6901055a" />
+
+## Insights Summary
+
+# North Star Metrics
+To evaluate campaign performance, the insights focused on the following key metrics:
+
+• Impressions: The number of people who saw a marketing campaign.
+
+• Cost per Click (CPC): the amount an advertiser pays each time a user clicks on their advertisement
+
+• Signup Rate: The percentage of people who see a campaign and ultimately signed up for a Row Health plan.
+
+• Cost per Signup: The average dollars spent in order to acquire a signup from each campaign.
+
+• Click through Rate (CTR): The percentage of people who see a campaign and click on the associated link.
+
 
