@@ -88,3 +88,6 @@ The dashboard can be found in Tableau Public [HERE](https://public.tableau.com/a
 <img width="1291" height="996" alt="2025-08-04_12h59_22" src="https://github.com/user-attachments/assets/6fc73c99-db52-47ad-9d10-fcf36958cfb3" />
 
 
+## Technical Process and Caveats
+
+
